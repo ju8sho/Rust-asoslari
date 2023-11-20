@@ -1,1 +1,1 @@
-/home/jusho/Документы/GitHub/RustLession/uzgaruvchilar/target/debug/uzgaruvchilar: /home/jusho/Документы/GitHub/RustLession/uzgaruvchilar/src/main.rs
+/home/jusho/Документы/GitHub/RustLession/uzgaruvchilar/target/debug/uzgaruvchilar: /home/jusho/Документы/GitHub/RustLession/uzgaruvchilar/src/amaliyot.rs /home/jusho/Документы/GitHub/RustLession/uzgaruvchilar/src/main.rs

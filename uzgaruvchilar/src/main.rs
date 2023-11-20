@@ -14,17 +14,19 @@ isize = qurulmalarning bit formatiga qarab uzi belgilaydi masalan 64bit razryadl
 u8 u16 u32 u64 u128 usize  faqat 0 dan yuqori sonlarni qabul qiladi
 mutable = yozilishi mut o'zgaruvchilarni o'zgartirish
 */
-// fn main() {
-    // let mut yosh: i8 = 26;
-    // yosh = 28;
-    // yosh = 45;
-    // println!("{}", yosh)
-    // matinlar bilan chiqarish
-    //println!("Mening yoshim {}", yosh)
-//}
+mod amaliyot;
+
+fn main() {
+    let mut yosh: i8 = 26;
+    yosh = 28;
+    yosh = 45;
+    println!("{}", yosh);
+    //matinlar bilan chiqarish
+    println!("Mening yoshim {}", yosh)
+}
 
 //// xavsiz, va o'zgaruvchilarni aniq korsatish
-fn main() {
-    let name = String::from("Ju");
-    println!("My name is {}", name)
-}
+// fn main() {
+//     let name = String::from("Ju");
+//     println!("My name is {}", name)
+// }
